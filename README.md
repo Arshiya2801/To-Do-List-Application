@@ -18,7 +18,6 @@ A simple and responsive To-Do List application built with **ReactJS** to help yo
 ## 📸 UI Preview
 ![image](https://github.com/user-attachments/assets/fccca4f9-f1c4-4350-8ec6-d62b11cf876b)
 
-![Todo List UI](./ui-screenshot.png)
 
 ---
 
