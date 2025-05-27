@@ -51,6 +51,7 @@ The app will run at `http://localhost:3000`
 
 * ReactJS
 * HTML & CSS (with custom styling)
+* TailwindCSS
 * JavaScript (ES6+)
 * Vite (optional depending on setup)
 
