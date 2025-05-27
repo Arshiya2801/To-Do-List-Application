@@ -1,17 +1,84 @@
-<<<<<<< HEAD
-# React + Vite
+# 📝 To-Do List Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive To-Do List application built with **ReactJS** to help you manage and crush your daily goals! 💪
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Features
 
-## Expanding the ESLint configuration
+* Add new tasks
+* Edit existing tasks
+* Mark tasks as complete/incomplete
+* Delete tasks
+* Persistent with localStorage
+* Stylish and responsive UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# To-do List Application
->>>>>>> 58fcf383b62d8e96bbb14cc7beee8e9614701b16
-"# To-Do-List-Application" 
+---
+
+## 📸 UI Preview
+![image](https://github.com/user-attachments/assets/fccca4f9-f1c4-4350-8ec6-d62b11cf876b)
+
+![Todo List UI](./ui-screenshot.png)
+
+---
+
+## 🚀 Installation
+
+Follow these simple steps to run the app locally:
+
+1. **Clone the repository:**
+
+```bash
+https://github.com/your-username/todo-list-react.git
+cd todo-list-react
+```
+
+2. **Install dependencies:**
+
+```bash
+npm install
+```
+
+3. **Start the development server:**
+
+```bash
+npm start
+```
+
+The app will run at `http://localhost:3000`
+
+---
+
+## 🛠️ Built With
+
+* ReactJS
+* HTML & CSS (with custom styling)
+* JavaScript (ES6+)
+* Vite (optional depending on setup)
+
+---
+
+## 📂 Folder Structure
+
+```
+todo-list-react/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── TodoForm.jsx
+│   │   ├── TodoItem.jsx
+│   ├── contexts/
+│   │   └── TodoContext.jsx
+│   ├── App.jsx
+│   ├── index.js
+├── README.md
+```
+
+
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
