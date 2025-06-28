@@ -6,17 +6,21 @@ A simple and responsive To-Do List application built with **ReactJS** to help yo
 
 ## 🔥 Features
 
-* Add new tasks
-* Edit existing tasks
-* Mark tasks as complete/incomplete
-* Delete tasks
-* Persistent with localStorage
-* Stylish and responsive UI
+✅ Add new tasks  
+✏️ Edit tasks inline  
+✅ Mark as complete/incomplete  
+🗑️ Delete tasks  
+🧹 Clear completed tasks
+✏️ Filter out different tasks under the tags active, completed
+💾 Persistent using localStorage  
+🌗 Clean, mobile-responsive UI with TailwindCSS  
+⚙️ Built with modern tooling (React + Vite)
 
 ---
 
 ## 📸 UI Preview
-![image](https://github.com/user-attachments/assets/9bcaee90-c540-4731-9de7-a7b09f5b967c)
+![image]![image](https://github.com/user-attachments/assets/e114e96c-d967-4949-9a4a-2847064875b9)
+
 
 ---
 
